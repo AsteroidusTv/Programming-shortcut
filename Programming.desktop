@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Programming
 Comment=Open all things i need for programing
-Exec=/home/achille/Documents/Projects/Bash/programming.sh
+Exec=your/directories/
 X-GNOME-UsesNotifications=false
 Type=Application
 Terminal=false
