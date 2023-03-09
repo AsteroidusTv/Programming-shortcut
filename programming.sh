@@ -1,6 +1,6 @@
  #!/bin/bash
 
-directory="/home/achille/Documents/Projects/Html/Cescosite/"
+directory="/your/direcoiries"
 
 subl &
 filezilla &
